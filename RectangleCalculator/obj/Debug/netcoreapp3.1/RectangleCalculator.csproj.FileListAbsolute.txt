@@ -1,0 +1,12 @@
+/Users/philiploeffler/c#/RectangleCalculator/obj/Debug/netcoreapp3.1/RectangleCalculator.csprojAssemblyReference.cache
+/Users/philiploeffler/c#/RectangleCalculator/obj/Debug/netcoreapp3.1/RectangleCalculator.AssemblyInfoInputs.cache
+/Users/philiploeffler/c#/RectangleCalculator/obj/Debug/netcoreapp3.1/RectangleCalculator.AssemblyInfo.cs
+/Users/philiploeffler/c#/RectangleCalculator/obj/Debug/netcoreapp3.1/RectangleCalculator.csproj.CoreCompileInputs.cache
+/Users/philiploeffler/c#/RectangleCalculator/bin/Debug/netcoreapp3.1/RectangleCalculator.deps.json
+/Users/philiploeffler/c#/RectangleCalculator/bin/Debug/netcoreapp3.1/RectangleCalculator.runtimeconfig.json
+/Users/philiploeffler/c#/RectangleCalculator/bin/Debug/netcoreapp3.1/RectangleCalculator.runtimeconfig.dev.json
+/Users/philiploeffler/c#/RectangleCalculator/bin/Debug/netcoreapp3.1/RectangleCalculator.dll
+/Users/philiploeffler/c#/RectangleCalculator/bin/Debug/netcoreapp3.1/RectangleCalculator.pdb
+/Users/philiploeffler/c#/RectangleCalculator/obj/Debug/netcoreapp3.1/RectangleCalculator.dll
+/Users/philiploeffler/c#/RectangleCalculator/obj/Debug/netcoreapp3.1/RectangleCalculator.pdb
+/Users/philiploeffler/c#/RectangleCalculator/obj/Debug/netcoreapp3.1/RectangleCalculator.genruntimeconfig.cache

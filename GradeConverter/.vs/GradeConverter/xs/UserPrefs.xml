@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{AB4E8B07-7E41-4339-AE38-2C17821D98F6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../RectangleCalculator/Program.cs">
+    <Files>
+      <File FileName="../RectangleCalculator/Program.cs" Line="3" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GradeConverter" expanded="True">
+            <Node name="GradeConverter" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GradeConverter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

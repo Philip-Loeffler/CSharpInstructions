@@ -1,0 +1,12 @@
+/Users/philiploeffler/c#/ch2-control-structures/bin/Debug/netcoreapp3.1/ch2-control-structures.deps.json
+/Users/philiploeffler/c#/ch2-control-structures/bin/Debug/netcoreapp3.1/ch2-control-structures.runtimeconfig.json
+/Users/philiploeffler/c#/ch2-control-structures/bin/Debug/netcoreapp3.1/ch2-control-structures.runtimeconfig.dev.json
+/Users/philiploeffler/c#/ch2-control-structures/bin/Debug/netcoreapp3.1/ch2-control-structures.dll
+/Users/philiploeffler/c#/ch2-control-structures/bin/Debug/netcoreapp3.1/ch2-control-structures.pdb
+/Users/philiploeffler/c#/ch2-control-structures/obj/Debug/netcoreapp3.1/ch2-control-structures.csprojAssemblyReference.cache
+/Users/philiploeffler/c#/ch2-control-structures/obj/Debug/netcoreapp3.1/ch2-control-structures.AssemblyInfoInputs.cache
+/Users/philiploeffler/c#/ch2-control-structures/obj/Debug/netcoreapp3.1/ch2-control-structures.AssemblyInfo.cs
+/Users/philiploeffler/c#/ch2-control-structures/obj/Debug/netcoreapp3.1/ch2-control-structures.csproj.CoreCompileInputs.cache
+/Users/philiploeffler/c#/ch2-control-structures/obj/Debug/netcoreapp3.1/ch2-control-structures.dll
+/Users/philiploeffler/c#/ch2-control-structures/obj/Debug/netcoreapp3.1/ch2-control-structures.pdb
+/Users/philiploeffler/c#/ch2-control-structures/obj/Debug/netcoreapp3.1/ch2-control-structures.genruntimeconfig.cache
