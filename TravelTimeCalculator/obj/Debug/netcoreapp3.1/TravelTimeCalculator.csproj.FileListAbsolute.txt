@@ -1,0 +1,12 @@
+/Users/philiploeffler/c#/TravelTimeCalculator/bin/Debug/netcoreapp3.1/TravelTimeCalculator.deps.json
+/Users/philiploeffler/c#/TravelTimeCalculator/bin/Debug/netcoreapp3.1/TravelTimeCalculator.runtimeconfig.json
+/Users/philiploeffler/c#/TravelTimeCalculator/bin/Debug/netcoreapp3.1/TravelTimeCalculator.runtimeconfig.dev.json
+/Users/philiploeffler/c#/TravelTimeCalculator/bin/Debug/netcoreapp3.1/TravelTimeCalculator.dll
+/Users/philiploeffler/c#/TravelTimeCalculator/bin/Debug/netcoreapp3.1/TravelTimeCalculator.pdb
+/Users/philiploeffler/c#/TravelTimeCalculator/obj/Debug/netcoreapp3.1/TravelTimeCalculator.csprojAssemblyReference.cache
+/Users/philiploeffler/c#/TravelTimeCalculator/obj/Debug/netcoreapp3.1/TravelTimeCalculator.AssemblyInfoInputs.cache
+/Users/philiploeffler/c#/TravelTimeCalculator/obj/Debug/netcoreapp3.1/TravelTimeCalculator.AssemblyInfo.cs
+/Users/philiploeffler/c#/TravelTimeCalculator/obj/Debug/netcoreapp3.1/TravelTimeCalculator.csproj.CoreCompileInputs.cache
+/Users/philiploeffler/c#/TravelTimeCalculator/obj/Debug/netcoreapp3.1/TravelTimeCalculator.dll
+/Users/philiploeffler/c#/TravelTimeCalculator/obj/Debug/netcoreapp3.1/TravelTimeCalculator.pdb
+/Users/philiploeffler/c#/TravelTimeCalculator/obj/Debug/netcoreapp3.1/TravelTimeCalculator.genruntimeconfig.cache

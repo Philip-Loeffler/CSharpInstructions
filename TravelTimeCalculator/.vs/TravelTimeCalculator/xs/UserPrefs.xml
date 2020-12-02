@@ -1,14 +1,13 @@
-﻿<Properties StartupConfiguration="{AD57D1B4-15FE-4C35-9885-0CF77AA66B45}|Default">
-  <MonoDevelop.Ide.ItemProperties.TemperatureConverter PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{99A800D5-6C2B-4B24-8D3D-DA1E2623C9D0}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="14" Column="68" />
+      <File FileName="Program.cs" Line="6" Column="55" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TemperatureConverter" expanded="True">
-            <Node name="TemperatureConverter" expanded="True">
+          <Node name="TravelTimeCalculator" expanded="True">
+            <Node name="TravelTimeCalculator" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -18,6 +17,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TravelTimeCalculator FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
