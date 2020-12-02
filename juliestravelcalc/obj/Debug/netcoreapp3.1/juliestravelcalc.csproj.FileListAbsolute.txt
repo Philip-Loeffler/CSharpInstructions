@@ -1,0 +1,12 @@
+/Users/philiploeffler/c#/juliestravelcalc/bin/Debug/netcoreapp3.1/juliestravelcalc.deps.json
+/Users/philiploeffler/c#/juliestravelcalc/bin/Debug/netcoreapp3.1/juliestravelcalc.runtimeconfig.json
+/Users/philiploeffler/c#/juliestravelcalc/bin/Debug/netcoreapp3.1/juliestravelcalc.runtimeconfig.dev.json
+/Users/philiploeffler/c#/juliestravelcalc/bin/Debug/netcoreapp3.1/juliestravelcalc.dll
+/Users/philiploeffler/c#/juliestravelcalc/bin/Debug/netcoreapp3.1/juliestravelcalc.pdb
+/Users/philiploeffler/c#/juliestravelcalc/obj/Debug/netcoreapp3.1/juliestravelcalc.csprojAssemblyReference.cache
+/Users/philiploeffler/c#/juliestravelcalc/obj/Debug/netcoreapp3.1/juliestravelcalc.AssemblyInfoInputs.cache
+/Users/philiploeffler/c#/juliestravelcalc/obj/Debug/netcoreapp3.1/juliestravelcalc.AssemblyInfo.cs
+/Users/philiploeffler/c#/juliestravelcalc/obj/Debug/netcoreapp3.1/juliestravelcalc.csproj.CoreCompileInputs.cache
+/Users/philiploeffler/c#/juliestravelcalc/obj/Debug/netcoreapp3.1/juliestravelcalc.dll
+/Users/philiploeffler/c#/juliestravelcalc/obj/Debug/netcoreapp3.1/juliestravelcalc.pdb
+/Users/philiploeffler/c#/juliestravelcalc/obj/Debug/netcoreapp3.1/juliestravelcalc.genruntimeconfig.cache

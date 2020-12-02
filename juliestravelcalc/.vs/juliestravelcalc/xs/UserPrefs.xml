@@ -1,23 +1,26 @@
-﻿<Properties StartupConfiguration="{99A800D5-6C2B-4B24-8D3D-DA1E2623C9D0}|Default">
+﻿<Properties StartupConfiguration="{93AEF764-8432-493E-A9ED-0340E864D72A}|Default">
+  <MonoDevelop.Ide.ItemProperties.juliestravelcalc PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="18" Column="77" />
+      <File FileName="Program.cs" Line="30" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TravelTimeCalculator" expanded="True">
-            <Node name="TravelTimeCalculator" expanded="True">
+          <Node name="juliestravelcalc" expanded="True">
+            <Node name="juliestravelcalc" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.TravelTimeCalculator PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

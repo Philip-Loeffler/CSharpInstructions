@@ -1,0 +1,12 @@
+/Users/philiploeffler/c#/ch3_forLoop/bin/Debug/netcoreapp3.1/ch3_forLoop.deps.json
+/Users/philiploeffler/c#/ch3_forLoop/bin/Debug/netcoreapp3.1/ch3_forLoop.runtimeconfig.json
+/Users/philiploeffler/c#/ch3_forLoop/bin/Debug/netcoreapp3.1/ch3_forLoop.runtimeconfig.dev.json
+/Users/philiploeffler/c#/ch3_forLoop/bin/Debug/netcoreapp3.1/ch3_forLoop.dll
+/Users/philiploeffler/c#/ch3_forLoop/bin/Debug/netcoreapp3.1/ch3_forLoop.pdb
+/Users/philiploeffler/c#/ch3_forLoop/obj/Debug/netcoreapp3.1/ch3_forLoop.csprojAssemblyReference.cache
+/Users/philiploeffler/c#/ch3_forLoop/obj/Debug/netcoreapp3.1/ch3_forLoop.AssemblyInfoInputs.cache
+/Users/philiploeffler/c#/ch3_forLoop/obj/Debug/netcoreapp3.1/ch3_forLoop.AssemblyInfo.cs
+/Users/philiploeffler/c#/ch3_forLoop/obj/Debug/netcoreapp3.1/ch3_forLoop.csproj.CoreCompileInputs.cache
+/Users/philiploeffler/c#/ch3_forLoop/obj/Debug/netcoreapp3.1/ch3_forLoop.dll
+/Users/philiploeffler/c#/ch3_forLoop/obj/Debug/netcoreapp3.1/ch3_forLoop.pdb
+/Users/philiploeffler/c#/ch3_forLoop/obj/Debug/netcoreapp3.1/ch3_forLoop.genruntimeconfig.cache
