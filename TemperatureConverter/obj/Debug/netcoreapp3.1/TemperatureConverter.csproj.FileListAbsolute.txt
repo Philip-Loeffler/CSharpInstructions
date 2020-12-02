@@ -1,0 +1,12 @@
+/Users/philiploeffler/c#/TemperatureConverter/bin/Debug/netcoreapp3.1/TemperatureConverter.deps.json
+/Users/philiploeffler/c#/TemperatureConverter/bin/Debug/netcoreapp3.1/TemperatureConverter.runtimeconfig.json
+/Users/philiploeffler/c#/TemperatureConverter/bin/Debug/netcoreapp3.1/TemperatureConverter.runtimeconfig.dev.json
+/Users/philiploeffler/c#/TemperatureConverter/bin/Debug/netcoreapp3.1/TemperatureConverter.dll
+/Users/philiploeffler/c#/TemperatureConverter/bin/Debug/netcoreapp3.1/TemperatureConverter.pdb
+/Users/philiploeffler/c#/TemperatureConverter/obj/Debug/netcoreapp3.1/TemperatureConverter.csprojAssemblyReference.cache
+/Users/philiploeffler/c#/TemperatureConverter/obj/Debug/netcoreapp3.1/TemperatureConverter.AssemblyInfoInputs.cache
+/Users/philiploeffler/c#/TemperatureConverter/obj/Debug/netcoreapp3.1/TemperatureConverter.AssemblyInfo.cs
+/Users/philiploeffler/c#/TemperatureConverter/obj/Debug/netcoreapp3.1/TemperatureConverter.csproj.CoreCompileInputs.cache
+/Users/philiploeffler/c#/TemperatureConverter/obj/Debug/netcoreapp3.1/TemperatureConverter.dll
+/Users/philiploeffler/c#/TemperatureConverter/obj/Debug/netcoreapp3.1/TemperatureConverter.pdb
+/Users/philiploeffler/c#/TemperatureConverter/obj/Debug/netcoreapp3.1/TemperatureConverter.genruntimeconfig.cache

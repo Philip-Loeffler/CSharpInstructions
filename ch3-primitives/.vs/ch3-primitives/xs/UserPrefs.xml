@@ -1,25 +1,22 @@
-﻿<Properties StartupConfiguration="{B33EDA08-F385-43FB-98D7-E15E35B8CE00}|Default">
+﻿<Properties StartupConfiguration="{9456ED46-359F-4774-AFB0-2125B1250F93}|Default">
+  <MonoDevelop.Ide.ItemProperties.ch3-primitives FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="32" Column="1" />
+      <File FileName="Program.cs" Line="6" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="RectangleCalculator" expanded="True">
-            <Node name="RectangleCalculator" expanded="True">
+          <Node name="ch3-primitives" expanded="True">
+            <Node name="ch3-primitives" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.RectangleCalculator PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
