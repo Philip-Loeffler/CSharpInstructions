@@ -1,0 +1,12 @@
+/Users/philiploeffler/c#/ch5_methods/bin/Debug/netcoreapp3.1/ch5_methods.deps.json
+/Users/philiploeffler/c#/ch5_methods/bin/Debug/netcoreapp3.1/ch5_methods.runtimeconfig.json
+/Users/philiploeffler/c#/ch5_methods/bin/Debug/netcoreapp3.1/ch5_methods.runtimeconfig.dev.json
+/Users/philiploeffler/c#/ch5_methods/bin/Debug/netcoreapp3.1/ch5_methods.dll
+/Users/philiploeffler/c#/ch5_methods/bin/Debug/netcoreapp3.1/ch5_methods.pdb
+/Users/philiploeffler/c#/ch5_methods/obj/Debug/netcoreapp3.1/ch5_methods.csprojAssemblyReference.cache
+/Users/philiploeffler/c#/ch5_methods/obj/Debug/netcoreapp3.1/ch5_methods.AssemblyInfoInputs.cache
+/Users/philiploeffler/c#/ch5_methods/obj/Debug/netcoreapp3.1/ch5_methods.AssemblyInfo.cs
+/Users/philiploeffler/c#/ch5_methods/obj/Debug/netcoreapp3.1/ch5_methods.csproj.CoreCompileInputs.cache
+/Users/philiploeffler/c#/ch5_methods/obj/Debug/netcoreapp3.1/ch5_methods.dll
+/Users/philiploeffler/c#/ch5_methods/obj/Debug/netcoreapp3.1/ch5_methods.pdb
+/Users/philiploeffler/c#/ch5_methods/obj/Debug/netcoreapp3.1/ch5_methods.genruntimeconfig.cache
