@@ -1,0 +1,12 @@
+/Users/philiploeffler/c#/tableOfPowers/bin/Debug/netcoreapp3.1/tableOfPowers.deps.json
+/Users/philiploeffler/c#/tableOfPowers/bin/Debug/netcoreapp3.1/tableOfPowers.runtimeconfig.json
+/Users/philiploeffler/c#/tableOfPowers/bin/Debug/netcoreapp3.1/tableOfPowers.runtimeconfig.dev.json
+/Users/philiploeffler/c#/tableOfPowers/bin/Debug/netcoreapp3.1/tableOfPowers.dll
+/Users/philiploeffler/c#/tableOfPowers/bin/Debug/netcoreapp3.1/tableOfPowers.pdb
+/Users/philiploeffler/c#/tableOfPowers/obj/Debug/netcoreapp3.1/tableOfPowers.csprojAssemblyReference.cache
+/Users/philiploeffler/c#/tableOfPowers/obj/Debug/netcoreapp3.1/tableOfPowers.AssemblyInfoInputs.cache
+/Users/philiploeffler/c#/tableOfPowers/obj/Debug/netcoreapp3.1/tableOfPowers.AssemblyInfo.cs
+/Users/philiploeffler/c#/tableOfPowers/obj/Debug/netcoreapp3.1/tableOfPowers.csproj.CoreCompileInputs.cache
+/Users/philiploeffler/c#/tableOfPowers/obj/Debug/netcoreapp3.1/tableOfPowers.dll
+/Users/philiploeffler/c#/tableOfPowers/obj/Debug/netcoreapp3.1/tableOfPowers.pdb
+/Users/philiploeffler/c#/tableOfPowers/obj/Debug/netcoreapp3.1/tableOfPowers.genruntimeconfig.cache

@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{FB034BA2-BF04-4771-93C9-9D52F9A899CC}|Default">
+﻿<Properties StartupConfiguration="{9956F238-12A9-42C6-A171-1FFAC019CDE6}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="11" Column="40" />
+      <File FileName="Program.cs" Line="16" Column="39" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ch3_forLoop" expanded="True">
-            <Node name="ch3_forLoop" expanded="True">
+          <Node name="tableOfPowers" expanded="True">
+            <Node name="tableOfPowers" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -17,7 +17,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.ch3__forLoop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.tableOfPowers PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
