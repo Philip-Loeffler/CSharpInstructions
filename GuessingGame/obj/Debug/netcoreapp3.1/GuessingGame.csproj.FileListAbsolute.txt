@@ -1,0 +1,12 @@
+/Users/philiploeffler/c#/GuessingGame/bin/Debug/netcoreapp3.1/GuessingGame.deps.json
+/Users/philiploeffler/c#/GuessingGame/bin/Debug/netcoreapp3.1/GuessingGame.runtimeconfig.json
+/Users/philiploeffler/c#/GuessingGame/bin/Debug/netcoreapp3.1/GuessingGame.runtimeconfig.dev.json
+/Users/philiploeffler/c#/GuessingGame/bin/Debug/netcoreapp3.1/GuessingGame.dll
+/Users/philiploeffler/c#/GuessingGame/bin/Debug/netcoreapp3.1/GuessingGame.pdb
+/Users/philiploeffler/c#/GuessingGame/obj/Debug/netcoreapp3.1/GuessingGame.csprojAssemblyReference.cache
+/Users/philiploeffler/c#/GuessingGame/obj/Debug/netcoreapp3.1/GuessingGame.AssemblyInfoInputs.cache
+/Users/philiploeffler/c#/GuessingGame/obj/Debug/netcoreapp3.1/GuessingGame.AssemblyInfo.cs
+/Users/philiploeffler/c#/GuessingGame/obj/Debug/netcoreapp3.1/GuessingGame.csproj.CoreCompileInputs.cache
+/Users/philiploeffler/c#/GuessingGame/obj/Debug/netcoreapp3.1/GuessingGame.dll
+/Users/philiploeffler/c#/GuessingGame/obj/Debug/netcoreapp3.1/GuessingGame.pdb
+/Users/philiploeffler/c#/GuessingGame/obj/Debug/netcoreapp3.1/GuessingGame.genruntimeconfig.cache
