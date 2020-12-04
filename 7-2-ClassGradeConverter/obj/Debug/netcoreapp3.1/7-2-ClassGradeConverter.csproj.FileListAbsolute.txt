@@ -1,0 +1,12 @@
+/Users/philiploeffler/c#/7-2-ClassGradeConverter/bin/Debug/netcoreapp3.1/7-2-ClassGradeConverter.deps.json
+/Users/philiploeffler/c#/7-2-ClassGradeConverter/bin/Debug/netcoreapp3.1/7-2-ClassGradeConverter.runtimeconfig.json
+/Users/philiploeffler/c#/7-2-ClassGradeConverter/bin/Debug/netcoreapp3.1/7-2-ClassGradeConverter.runtimeconfig.dev.json
+/Users/philiploeffler/c#/7-2-ClassGradeConverter/bin/Debug/netcoreapp3.1/7-2-ClassGradeConverter.dll
+/Users/philiploeffler/c#/7-2-ClassGradeConverter/bin/Debug/netcoreapp3.1/7-2-ClassGradeConverter.pdb
+/Users/philiploeffler/c#/7-2-ClassGradeConverter/obj/Debug/netcoreapp3.1/7-2-ClassGradeConverter.csprojAssemblyReference.cache
+/Users/philiploeffler/c#/7-2-ClassGradeConverter/obj/Debug/netcoreapp3.1/7-2-ClassGradeConverter.AssemblyInfoInputs.cache
+/Users/philiploeffler/c#/7-2-ClassGradeConverter/obj/Debug/netcoreapp3.1/7-2-ClassGradeConverter.AssemblyInfo.cs
+/Users/philiploeffler/c#/7-2-ClassGradeConverter/obj/Debug/netcoreapp3.1/7-2-ClassGradeConverter.csproj.CoreCompileInputs.cache
+/Users/philiploeffler/c#/7-2-ClassGradeConverter/obj/Debug/netcoreapp3.1/7-2-ClassGradeConverter.dll
+/Users/philiploeffler/c#/7-2-ClassGradeConverter/obj/Debug/netcoreapp3.1/7-2-ClassGradeConverter.pdb
+/Users/philiploeffler/c#/7-2-ClassGradeConverter/obj/Debug/netcoreapp3.1/7-2-ClassGradeConverter.genruntimeconfig.cache
