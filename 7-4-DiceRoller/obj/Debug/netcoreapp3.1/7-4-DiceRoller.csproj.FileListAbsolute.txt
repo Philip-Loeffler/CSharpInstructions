@@ -1,0 +1,12 @@
+/Users/philiploeffler/c#/7-4-DiceRoller/bin/Debug/netcoreapp3.1/7-4-DiceRoller.deps.json
+/Users/philiploeffler/c#/7-4-DiceRoller/bin/Debug/netcoreapp3.1/7-4-DiceRoller.runtimeconfig.json
+/Users/philiploeffler/c#/7-4-DiceRoller/bin/Debug/netcoreapp3.1/7-4-DiceRoller.runtimeconfig.dev.json
+/Users/philiploeffler/c#/7-4-DiceRoller/bin/Debug/netcoreapp3.1/7-4-DiceRoller.dll
+/Users/philiploeffler/c#/7-4-DiceRoller/bin/Debug/netcoreapp3.1/7-4-DiceRoller.pdb
+/Users/philiploeffler/c#/7-4-DiceRoller/obj/Debug/netcoreapp3.1/7-4-DiceRoller.csprojAssemblyReference.cache
+/Users/philiploeffler/c#/7-4-DiceRoller/obj/Debug/netcoreapp3.1/7-4-DiceRoller.AssemblyInfoInputs.cache
+/Users/philiploeffler/c#/7-4-DiceRoller/obj/Debug/netcoreapp3.1/7-4-DiceRoller.AssemblyInfo.cs
+/Users/philiploeffler/c#/7-4-DiceRoller/obj/Debug/netcoreapp3.1/7-4-DiceRoller.csproj.CoreCompileInputs.cache
+/Users/philiploeffler/c#/7-4-DiceRoller/obj/Debug/netcoreapp3.1/7-4-DiceRoller.dll
+/Users/philiploeffler/c#/7-4-DiceRoller/obj/Debug/netcoreapp3.1/7-4-DiceRoller.pdb
+/Users/philiploeffler/c#/7-4-DiceRoller/obj/Debug/netcoreapp3.1/7-4-DiceRoller.genruntimeconfig.cache
