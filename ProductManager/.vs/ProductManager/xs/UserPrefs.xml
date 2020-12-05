@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{E5026654-3236-43E3-B85A-D090B2667D83}|Default">
+  <MonoDevelop.Ide.ItemProperties.ProductManager PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="business/Console.cs">
+    <Files>
+      <File FileName="Program.cs" Line="16" Column="40" />
+      <File FileName="business/Product.cs" Line="26" Column="79" />
+      <File FileName="business/Console.cs" Line="2" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProductManager" expanded="True">
+            <Node name="ProductManager" expanded="True">
+              <Node name="business" expanded="True">
+                <Node name="Product.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

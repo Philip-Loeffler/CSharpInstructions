@@ -1,0 +1,12 @@
+/Users/philiploeffler/c#/ProductManager/bin/Debug/netcoreapp3.1/ProductManager.deps.json
+/Users/philiploeffler/c#/ProductManager/bin/Debug/netcoreapp3.1/ProductManager.runtimeconfig.json
+/Users/philiploeffler/c#/ProductManager/bin/Debug/netcoreapp3.1/ProductManager.runtimeconfig.dev.json
+/Users/philiploeffler/c#/ProductManager/bin/Debug/netcoreapp3.1/ProductManager.dll
+/Users/philiploeffler/c#/ProductManager/bin/Debug/netcoreapp3.1/ProductManager.pdb
+/Users/philiploeffler/c#/ProductManager/obj/Debug/netcoreapp3.1/ProductManager.csprojAssemblyReference.cache
+/Users/philiploeffler/c#/ProductManager/obj/Debug/netcoreapp3.1/ProductManager.AssemblyInfoInputs.cache
+/Users/philiploeffler/c#/ProductManager/obj/Debug/netcoreapp3.1/ProductManager.AssemblyInfo.cs
+/Users/philiploeffler/c#/ProductManager/obj/Debug/netcoreapp3.1/ProductManager.csproj.CoreCompileInputs.cache
+/Users/philiploeffler/c#/ProductManager/obj/Debug/netcoreapp3.1/ProductManager.dll
+/Users/philiploeffler/c#/ProductManager/obj/Debug/netcoreapp3.1/ProductManager.pdb
+/Users/philiploeffler/c#/ProductManager/obj/Debug/netcoreapp3.1/ProductManager.genruntimeconfig.cache

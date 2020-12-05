@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{BF03B830-302A-484A-BFEC-F5F4C1CE7F81}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyConsole.cs">
+    <Files>
+      <File FileName="Program.cs" Line="22" Column="51" />
+      <File FileName="MyConsole.cs" Line="4" Column="56" />
+      <File FileName="Contacts.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ContactList" expanded="True">
+            <Node name="ContactList" expanded="True">
+              <Node name="MyConsole.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ContactList PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

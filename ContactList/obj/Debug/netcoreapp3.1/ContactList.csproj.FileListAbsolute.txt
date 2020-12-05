@@ -1,0 +1,12 @@
+/Users/philiploeffler/c#/ContactList/bin/Debug/netcoreapp3.1/ContactList.deps.json
+/Users/philiploeffler/c#/ContactList/bin/Debug/netcoreapp3.1/ContactList.runtimeconfig.json
+/Users/philiploeffler/c#/ContactList/bin/Debug/netcoreapp3.1/ContactList.runtimeconfig.dev.json
+/Users/philiploeffler/c#/ContactList/bin/Debug/netcoreapp3.1/ContactList.dll
+/Users/philiploeffler/c#/ContactList/bin/Debug/netcoreapp3.1/ContactList.pdb
+/Users/philiploeffler/c#/ContactList/obj/Debug/netcoreapp3.1/ContactList.csprojAssemblyReference.cache
+/Users/philiploeffler/c#/ContactList/obj/Debug/netcoreapp3.1/ContactList.AssemblyInfoInputs.cache
+/Users/philiploeffler/c#/ContactList/obj/Debug/netcoreapp3.1/ContactList.AssemblyInfo.cs
+/Users/philiploeffler/c#/ContactList/obj/Debug/netcoreapp3.1/ContactList.csproj.CoreCompileInputs.cache
+/Users/philiploeffler/c#/ContactList/obj/Debug/netcoreapp3.1/ContactList.dll
+/Users/philiploeffler/c#/ContactList/obj/Debug/netcoreapp3.1/ContactList.pdb
+/Users/philiploeffler/c#/ContactList/obj/Debug/netcoreapp3.1/ContactList.genruntimeconfig.cache

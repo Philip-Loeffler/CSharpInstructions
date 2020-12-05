@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{9E108D72-796A-4968-9F16-4A944AB665CB}|Default">
-  <MonoDevelop.Ide.ItemProperties.DiceRoller FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.DiceRoller PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="5" Column="38" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

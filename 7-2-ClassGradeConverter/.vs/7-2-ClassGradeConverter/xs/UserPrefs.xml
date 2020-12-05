@@ -1,17 +1,17 @@
 ﻿<Properties StartupConfiguration="{020CE01C-10E3-4CF9-81F3-9C635C5230E8}|Default">
-  <MonoDevelop.Ide.ItemProperties.7-2-ClassGradeConverter FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Grade.cs">
+  <MonoDevelop.Ide.ItemProperties.7-2-ClassGradeConverter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyConsole.cs">
     <Files>
-      <File FileName="Program.cs" Line="3" Column="1" />
-      <File FileName="EmptyClass.cs" Line="2" Column="20" />
-      <File FileName="Grade.cs" Line="1" Column="1" />
+      <File FileName="EmptyClass.cs" Line="6" Column="11" />
+      <File FileName="Grade.cs" Line="3" Column="23" />
+      <File FileName="Program.cs" Line="2" Column="23" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="7-2-ClassGradeConverter" expanded="True">
             <Node name="7-2-ClassGradeConverter" expanded="True">
-              <Node name="Grade.cs" selected="True" />
+              <Node name="MyConsole.cs" selected="True" />
             </Node>
           </Node>
         </State>

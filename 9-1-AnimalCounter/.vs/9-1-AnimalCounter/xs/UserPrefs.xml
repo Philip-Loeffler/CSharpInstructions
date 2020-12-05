@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{6F6140B1-4182-4037-8F8F-D3598EF6F095}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Alligator.cs">
+    <Files>
+      <File FileName="Program.cs" Line="3" Column="11" />
+      <File FileName="EmptyInterface.cs" Line="2" Column="11" />
+      <File FileName="Animal.cs" Line="4" Column="40" />
+      <File FileName="Alligator.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="9-1-AnimalCounter" expanded="True" selected="True">
+            <Node name="AnimalCounter" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AnimalCounter FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,12 @@
+/Users/philiploeffler/c#/ListAndDictionary/bin/Debug/netcoreapp3.1/ListAndDictionary.deps.json
+/Users/philiploeffler/c#/ListAndDictionary/bin/Debug/netcoreapp3.1/ListAndDictionary.runtimeconfig.json
+/Users/philiploeffler/c#/ListAndDictionary/bin/Debug/netcoreapp3.1/ListAndDictionary.runtimeconfig.dev.json
+/Users/philiploeffler/c#/ListAndDictionary/bin/Debug/netcoreapp3.1/ListAndDictionary.dll
+/Users/philiploeffler/c#/ListAndDictionary/bin/Debug/netcoreapp3.1/ListAndDictionary.pdb
+/Users/philiploeffler/c#/ListAndDictionary/obj/Debug/netcoreapp3.1/ListAndDictionary.csprojAssemblyReference.cache
+/Users/philiploeffler/c#/ListAndDictionary/obj/Debug/netcoreapp3.1/ListAndDictionary.AssemblyInfoInputs.cache
+/Users/philiploeffler/c#/ListAndDictionary/obj/Debug/netcoreapp3.1/ListAndDictionary.AssemblyInfo.cs
+/Users/philiploeffler/c#/ListAndDictionary/obj/Debug/netcoreapp3.1/ListAndDictionary.csproj.CoreCompileInputs.cache
+/Users/philiploeffler/c#/ListAndDictionary/obj/Debug/netcoreapp3.1/ListAndDictionary.dll
+/Users/philiploeffler/c#/ListAndDictionary/obj/Debug/netcoreapp3.1/ListAndDictionary.pdb
+/Users/philiploeffler/c#/ListAndDictionary/obj/Debug/netcoreapp3.1/ListAndDictionary.genruntimeconfig.cache

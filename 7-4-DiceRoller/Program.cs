@@ -1,6 +1,4 @@
 ﻿using System;
-using _7_4_DiceRoller;
-using ConsoleClass;
 namespace _7_4_DiceRoller {
     class Program {
         static void Main(string[] args) {
